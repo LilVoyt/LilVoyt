@@ -1,6 +1,10 @@
-# 💫 About Me:
-Hello! 👋<br>I'm a passionate student developer dedicated to clean, <br>efficient code and innovative problem-solving. <br>My expertise spans backend technologies with Microsoft .NET <br>and frontend frameworks like Angular and React.<br><br>I'm currently working on building .NET Core applications <br>with integrated databases and developing responsive front-end sites.<br><br>🎓 About Me<br>I'm a third-year Information Systems student, <br>thoroughly enjoying the journey of learning and applying new skills.<br><br>💻 What I’m Working On<br>Right now, I’m developing a pet project that brings together <br>everything I've learned so far, putting my skills to the test <br>and pushing my capabilities forward.
+About Me
 
+Hi! I’m a developer and fourth-year Information Systems student who’s deeply into building practical solutions with clean and efficient code.
+I enjoy combining backend strength with Microsoft .NET and modern frontend frameworks like Angular and React to craft applications that are both solid under the hood and intuitive to use.
+I see myself not just as a student learning technologies, but as a developer who’s already applying them in real projects.
+What I’m Working On
+Right now, I’m creating a pet project that ties together everything I’ve learned so far — .NET Core, databases, and responsive UI with Angular/React. It’s a personal sandbox where I can push my skills further, test new ideas, and refine my developer’s mindset.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/LilVoyt) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/voytanovskyy) 
